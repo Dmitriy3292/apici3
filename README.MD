@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cpdc83vgk5dudtlg?svg=true)](https://ci.appveyor.com/project/Dmitriy75199/apici3)
